@@ -1,5 +1,6 @@
 
-![Uploading inventory.drawio.png…]()
+![Screenshot 2025-05-07 120854](https://github.com/user-attachments/assets/c53da0ae-e972-4794-a814-40313e348cb5)
+
 
 # Inventory Management System
 
