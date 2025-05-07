@@ -1,4 +1,6 @@
 
+![Uploading inventory.drawio.png…]()
+
 # Inventory Management System
 
 ### Description 
